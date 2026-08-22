@@ -1,0 +1,14 @@
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\BlocDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\BlocDeNotas.AssemblyInfoInputs.cache
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\BlocDeNotas.AssemblyInfo.vb
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\BlocDeNotas.vbproj.CoreCompileInputs.cache
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\bin\Debug\net10.0-windows\BlocDeNotas.exe
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\bin\Debug\net10.0-windows\BlocDeNotas.deps.json
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\bin\Debug\net10.0-windows\BlocDeNotas.runtimeconfig.json
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\bin\Debug\net10.0-windows\BlocDeNotas.dll
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\bin\Debug\net10.0-windows\BlocDeNotas.pdb
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\BlocDeNotas.dll
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\refint\BlocDeNotas.dll
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\BlocDeNotas.pdb
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\BlocDeNotas.genruntimeconfig.cache
+C:\Users\Uriel_DELL\Desktop\BlocDeNotas\obj\Debug\net10.0-windows\ref\BlocDeNotas.dll
