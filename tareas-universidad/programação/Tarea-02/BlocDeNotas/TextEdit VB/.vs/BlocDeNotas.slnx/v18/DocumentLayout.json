@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|c:\\users\\dell\\desktop\\tareas-universidad-uni\\tareas-universidad\\programa\u00E7\u00E3o\\tarea-02\\blocdenotas\\textedit vb\\frmblocnotas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|solutionrelative:frmblocnotas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|c:\\users\\dell\\desktop\\tareas-universidad-uni\\tareas-universidad\\programa\u00E7\u00E3o\\tarea-02\\blocdenotas\\textedit vb\\frmblocnotas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|solutionrelative:frmblocnotas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|c:\\users\\dell\\desktop\\tareas-universidad-uni\\tareas-universidad\\programa\u00E7\u00E3o\\tarea-02\\blocdenotas\\textedit vb\\frmbuscar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|solutionrelative:frmbuscar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|c:\\users\\dell\\desktop\\tareas-universidad-uni\\tareas-universidad\\programa\u00E7\u00E3o\\tarea-02\\blocdenotas\\textedit vb\\frmbuscar.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|solutionrelative:frmbuscar.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|c:\\users\\dell\\desktop\\tareas-universidad-uni\\tareas-universidad\\programa\u00E7\u00E3o\\tarea-02\\blocdenotas\\textedit vb\\frmblocnotas.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|solutionrelative:frmblocnotas.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|c:\\users\\dell\\desktop\\tareas-universidad-uni\\tareas-universidad\\programa\u00E7\u00E3o\\tarea-02\\blocdenotas\\textedit vb\\frmbuscar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9E1D8019-9226-E40B-316B-1A275AD8546A}|BlocDeNotas.vbproj|solutionrelative:frmbuscar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBlocNotas.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBlocNotas.vb",
+              "RelativeDocumentMoniker": "frmBlocNotas.vb",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBlocNotas.vb",
+              "RelativeToolTip": "frmBlocNotas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-30T23:25:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBlocNotas.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBlocNotas.vb",
+              "RelativeDocumentMoniker": "frmBlocNotas.vb",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBlocNotas.vb [Design]",
+              "RelativeToolTip": "frmBlocNotas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-30T23:27:12.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBuscar.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBuscar.vb",
+              "RelativeDocumentMoniker": "frmBuscar.vb",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBuscar.vb [Design]",
+              "RelativeToolTip": "frmBuscar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-30T23:26:46.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBuscar.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBuscar.Designer.vb",
+              "RelativeDocumentMoniker": "frmBuscar.Designer.vb",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBuscar.Designer.vb",
+              "RelativeToolTip": "frmBuscar.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-30T23:26:14.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBuscar.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBuscar.vb",
+              "RelativeDocumentMoniker": "frmBuscar.vb",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBuscar.vb",
+              "RelativeToolTip": "frmBuscar.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-30T23:26:11.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBlocNotas.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBlocNotas.Designer.vb",
+              "RelativeDocumentMoniker": "frmBlocNotas.Designer.vb",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\tareas-universidad-UNI\\tareas-universidad\\programa\u00E7\u00E3o\\Tarea-02\\BlocDeNotas\\TextEdit VB\\frmBlocNotas.Designer.vb",
+              "RelativeToolTip": "frmBlocNotas.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-30T23:26:09.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
