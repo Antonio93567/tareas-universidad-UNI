@@ -1,2 +1,3 @@
 # tareas-universidad-UNI
-Tareas de la universidad
+Interface de CORREOS MAIU funcional 
+-integrantes #Uriel Antonio Cruz R. #Ian Jose Fuentes Orosco (2026)
